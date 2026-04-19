@@ -7,7 +7,7 @@
 
 - 🎓 Currently pursuing **BCA** in Coimbatore  
 - 🔐 Add-on course in **Cybersecurity**  
-- 💻 Learning programming languages like **Python** & **C**  
+- 💻 Learning programming languages like **Python** & **Html & CSS**  
 - 🚀 Focused on building a career in the **Tech Industry**  
 - 📈 Improving my problem-solving and coding skills every day  
 
