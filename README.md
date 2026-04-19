@@ -15,7 +15,7 @@
 
 🛠️ **Tech Stack**
 
-- 💻 Languages: `Python` | `C`  
+- 💻 Languages: `Python` | `Html & CSS`  
 - 🔐 Cybersecurity Basics  
 - 🧠 Problem Solving  
 - ⚙️ Tools: Git & GitHub  
