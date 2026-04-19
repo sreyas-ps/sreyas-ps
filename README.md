@@ -40,8 +40,8 @@
 
 📫 **Connect with Me**
 
-- 💼 LinkedIn: *Add your link here*  
-- 📧 Email: *Add your email here*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/sreyas-ps1/*  
+- 📧 Email: *sreyasps762@gmail.com*  
 
 ---
 
