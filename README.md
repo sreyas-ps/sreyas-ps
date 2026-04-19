@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sreyas P S</h1>
+<h3 align="center">BCA Student | Aspiring Cybersecurity Enthusiast | Python Learner</h3>
 
-<!--
-**sreyas-ps/sreyas-ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing **BCA** in Coimbatore  
+- 🔐 Add-on course in **Cybersecurity**  
+- 💻 Learning programming languages like **Python** & **C**  
+- 🚀 Focused on building a career in the **Tech Industry**  
+- 📈 Improving my problem-solving and coding skills every day  
+
+---
+
+🛠️ **Tech Stack**
+
+- 💻 Languages: `Python` | `C`  
+- 🔐 Cybersecurity Basics  
+- 🧠 Problem Solving  
+- ⚙️ Tools: Git & GitHub  
+
+---
+
+📚 **Currently Learning**
+
+- Advanced **Python Programming**  
+- Cybersecurity concepts & ethical hacking basics  
+- Data Structures & Logic Building  
+
+---
+
+🎯 **Goals**
+
+- Become a skilled **Software Developer / Cybersecurity Professional**  
+- Contribute to **Open Source Projects**  
+- Build real-world projects and improve coding skills  
+
+---
+
+📫 **Connect with Me**
+
+- 💼 LinkedIn: *Add your link here*  
+- 📧 Email: *Add your email here*  
+
+---
+
+⚡ **Fun Fact**
+
+> I believe consistency beats talent — coding every day to improve 🚀
+
+---
+
+⭐ **Thanks for visiting my profile!**
